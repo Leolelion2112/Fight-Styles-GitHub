@@ -21,6 +21,6 @@ This is a big update, adding new weapons and a shield!
 - A lot of code...
 - Cool mod banner in Mods tab when in main page
 
-If you want a Forge 1.20.6 release, let me know.
+I also added a 1.20.1 Forge release for certain reason, sadly no 1.20.6 forge.
 
 Leolelion
